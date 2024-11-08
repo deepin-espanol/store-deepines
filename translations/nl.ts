@@ -71,12 +71,12 @@
     <message>
         <location filename="../deepinesStore/about.py" line="67"/>
         <source>Version {version}</source>
-        <translation type="unfinished"></translation>
+        <translation>Versie {version}</translation>
     </message>
     <message>
         <location filename="../deepinesStore/about.py" line="68"/>
         <source>The App Store of Deepin en Español</source>
-        <translation type="unfinished"></translation>
+        <translation>De appwinkel van Deepin en Español</translation>
     </message>
 </context>
 <context>
@@ -84,27 +84,27 @@
     <message>
         <location filename="../deepinesStore/store.py" line="1105"/>
         <source>Starting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met starten…</translation>
     </message>
     <message>
         <location filename="../deepinesStore/store.py" line="1107"/>
         <source>Fetching files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met ophalen van bestanden…</translation>
     </message>
     <message>
         <location filename="../deepinesStore/store.py" line="1108"/>
         <source>Initializing components...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met laden van onderdelen…</translation>
     </message>
     <message>
         <location filename="../deepinesStore/store.py" line="1109"/>
         <source>Finalizing setup...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met afronden…</translation>
     </message>
     <message>
         <location filename="../deepinesStore/store.py" line="1103"/>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met laden…</translation>
     </message>
 </context>
 <context>
@@ -219,7 +219,7 @@ Als het probleem aanhoudt, maak er dan melding van op t.me/deepinenespanol.
         <location filename="../deepinesStore/dialog_install.py" line="162"/>
         <source>{app_count} apps have been selected for installation:
 </source>
-        <translation>Er zullen {app_count} programma's worden geïnstalleerd:
+        <translation>Er zullen {app_count} programma&apos;s worden geïnstalleerd:
 </translation>
     </message>
     <message>
@@ -246,7 +246,7 @@ You can look for help in our forum at deepinenespanol.org/comunidad
 or in our Telegram group t.me/deepinenespanol.</source>
         <translation>
 
-Een of meerdere programma's kunnen niet worden geïnstalleerd omdat
+Een of meerdere programma&apos;s kunnen niet worden geïnstalleerd omdat
 zij afhankelijk zijn van andere pakketten die ook niet kunnen worden geïnstalleerd.
 
 Vraag hulp op ons forum: deepinenespanol.org/comunidad
@@ -255,12 +255,12 @@ Of in onze Telegram-groep: t.me/deepinenespanol</translation>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="163"/>
         <source>App to uninstall: {item}</source>
-        <translation type="unfinished"></translation>
+        <translation>Te verwijderen programma: {item}</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="164"/>
         <source>Uninstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="168"/>
@@ -268,21 +268,28 @@ Of in onze Telegram-groep: t.me/deepinenespanol</translation>
 
 Warning: do not close the window, interrupting the process may damage your system.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Waarschuwing: sluit dit venster niet om schade aan het systeem te voorkomen.
+</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="171"/>
         <source>
 Uninstalling {item}
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Bezig met verwijderen van {item}…
+</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="173"/>
         <source>
 The uninstallation of {item} is finished.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+{item} is verwijderd.
+</translation>
     </message>
 </context>
 <context>
@@ -300,7 +307,7 @@ The uninstallation of {item} is finished.
     <message>
         <location filename="../deepinesStore/cardg.py" line="76"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteren</translation>
     </message>
 </context>
 <context>
@@ -390,7 +397,7 @@ Versie: {version}</translation>
     <message>
         <location filename="../deepinesStore/maing.py" line="517"/>
         <source>{app_count} apps selected to install, click here to review them</source>
-        <translation type="obsolete">Er zullen {app_count} programma's worden geïnstalleerd. Klik hier voor details.</translation>
+        <translation type="obsolete">Er zullen {app_count} programma&apos;s worden geïnstalleerd. Klik hier voor details.</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="404"/>
@@ -410,7 +417,7 @@ Versie: {version}</translation>
     <message>
         <location filename="../deepinesStore/maing.py" line="401"/>
         <source>Select the apps to install</source>
-        <translation>Selecteer de te installeren programma's</translation>
+        <translation>Selecteer de te installeren programma&apos;s</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="508"/>
@@ -440,82 +447,82 @@ Versie: {version}</translation>
     <message>
         <location filename="../deepinesStore/maing.py" line="396"/>
         <source>Apps .deb</source>
-        <translation type="unfinished"></translation>
+        <translation>Apps (.deb)</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="414"/>
         <source>Deepines repository is not installed on your system,&lt;br&gt;Deepines Store needs this repository to work.&lt;br&gt;In the following link you will find the instructions to install it:&lt;br&gt;&lt;br&gt;{repoURL}</source>
-        <translation type="unfinished"></translation>
+        <translation>De Deepines-pakketbron is niet aanwezig op het systeem.&lt;br&gt;Voor het gebruik van de appwinkel is deze bron vereist.&lt;br&gt;Voeg de pakketbron aan de hand van de instructies in de link toe:&lt;br&gt;&lt;br&gt;{repoURL}</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="379"/>
         <source>Review apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Programma&apos;s beoordelen</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="385"/>
         <source>Installed apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Geïnstalleerde programma&apos;s</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="397"/>
         <source>Apps Flatpak</source>
-        <translation type="unfinished"></translation>
+        <translation>Apps (Flatpak)</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="402"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteren</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="405"/>
         <source>Uninstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="406"/>
         <source>Uninstalled</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderd</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="407"/>
         <source>{app_count} app selected, click here to review it</source>
-        <translation type="unfinished"></translation>
+        <translation>{app-count} programma geselecteerd - klik om te tonen</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="408"/>
         <source>{app_count} apps selected, click here to review them</source>
-        <translation type="unfinished"></translation>
+        <translation>{app-count} programma&apos;s geselecteerd - klik om te tonen</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="409"/>
         <source>Unable to establish connection with the server, &lt;br&gt;please check your internet connection.&lt;br&gt;If the problem persists, please contact us via Telegram &lt;br&gt;at {atTlURL}.&lt;br&gt;&lt;br&gt;Visit Deepin en Español for more information: {siteURL}</source>
-        <translation type="unfinished"></translation>
+        <translation>Er kan geen verbinding worden gemaakt met de server.&lt;br&gt;Controleer je internetverbinding.&lt;br&gt;Als het probleem zich blijft voordoen, neem dan contact met ons op via Telegram&lt;br&gt;op {atTlURL}.&lt;br&gt;&lt;br&gt;Ga voor meer informatie naar de Deepin en Español-website: {siteURL}</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="380"/>
         <source>Start process</source>
-        <translation type="unfinished"></translation>
+        <translation>Starten</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="418"/>
         <source>Installing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met installeren…</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="419"/>
         <source>Installation failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>De installatie is mislukt!</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="420"/>
         <source>Ready to install</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaar om te installeren</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="421"/>
         <source>Starting installation...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met starten van installatie…</translation>
     </message>
 </context>
 </TS>

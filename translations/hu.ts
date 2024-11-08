@@ -71,12 +71,12 @@
     <message>
         <location filename="../deepinesStore/about.py" line="67"/>
         <source>Version {version}</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzió {version}</translation>
     </message>
     <message>
         <location filename="../deepinesStore/about.py" line="68"/>
         <source>The App Store of Deepin en Español</source>
-        <translation type="unfinished"></translation>
+        <translation>A Spanyol Deepin Közösség Áruháza</translation>
     </message>
 </context>
 <context>
@@ -84,27 +84,27 @@
     <message>
         <location filename="../deepinesStore/store.py" line="1105"/>
         <source>Starting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Indítás...</translation>
     </message>
     <message>
         <location filename="../deepinesStore/store.py" line="1107"/>
         <source>Fetching files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlok lekérése...</translation>
     </message>
     <message>
         <location filename="../deepinesStore/store.py" line="1108"/>
         <source>Initializing components...</source>
-        <translation type="unfinished"></translation>
+        <translation>Összetevők inicializálása...</translation>
     </message>
     <message>
         <location filename="../deepinesStore/store.py" line="1109"/>
         <source>Finalizing setup...</source>
-        <translation type="unfinished"></translation>
+        <translation>A beállítás befejezése...</translation>
     </message>
     <message>
         <location filename="../deepinesStore/store.py" line="1103"/>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Betöltés...</translation>
     </message>
 </context>
 <context>
@@ -254,12 +254,12 @@ vagy a Telegram csoportunkban t.me/deepinenespanol címen.</translation>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="163"/>
         <source>App to uninstall: {item}</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítandó alkalmazás: {item}</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="164"/>
         <source>Uninstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítás</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="168"/>
@@ -267,21 +267,28 @@ vagy a Telegram csoportunkban t.me/deepinenespanol címen.</translation>
 
 Warning: do not close the window, interrupting the process may damage your system.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Figyelmeztetés: ne zárja be az ablakot, mert a folyamat megszakítása károsíthatja a rendszert.
+</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="171"/>
         <source>
 Uninstalling {item}
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+{item} eltávolítása
+</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="173"/>
         <source>
 The uninstallation of {item} is finished.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+A(z) {item} eltávolítása befejeződött.
+</translation>
     </message>
 </context>
 <context>
@@ -299,7 +306,7 @@ The uninstallation of {item} is finished.
     <message>
         <location filename="../deepinesStore/cardg.py" line="76"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiválasztás</translation>
     </message>
 </context>
 <context>
@@ -439,82 +446,82 @@ Vezió: {version}</translation>
     <message>
         <location filename="../deepinesStore/maing.py" line="379"/>
         <source>Review apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazások megtekintése</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="385"/>
         <source>Installed apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Telepített alkalmazások</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="396"/>
         <source>Apps .deb</source>
-        <translation type="unfinished"></translation>
+        <translation>.deb alkalmazások</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="397"/>
         <source>Apps Flatpak</source>
-        <translation type="unfinished"></translation>
+        <translation>Flatpak alkalmazások</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="402"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiválasztás</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="405"/>
         <source>Uninstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítás</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="406"/>
         <source>Uninstalled</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítva</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="407"/>
         <source>{app_count} app selected, click here to review it</source>
-        <translation type="unfinished"></translation>
+        <translation>{app_count} alkalmazás kiválasztva, kattintson ide az áttekintéshez</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="408"/>
         <source>{app_count} apps selected, click here to review them</source>
-        <translation type="unfinished"></translation>
+        <translation>{app_count} alkalmazás van kiválasztva, kattintson ide az áttekintésükhöz</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="409"/>
         <source>Unable to establish connection with the server, &lt;br&gt;please check your internet connection.&lt;br&gt;If the problem persists, please contact us via Telegram &lt;br&gt;at {atTlURL}.&lt;br&gt;&lt;br&gt;Visit Deepin en Español for more information: {siteURL}</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült kapcsolatot létesíteni a szerverrel, &lt;br&gt;ellenőrizze internetkapcsolatát.&lt;br&gt;Ha a probléma továbbra is fennáll, kérjük, lépjen velünk kapcsolatba a Telegramon keresztül &lt;br&gt;a következő címen: {atTlURL}.&lt;br&gt;&lt;br&gt;Továbbiakért keresse fel a Deepin en Español oldalt. információ: {siteURL}</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="414"/>
         <source>Deepines repository is not installed on your system,&lt;br&gt;Deepines Store needs this repository to work.&lt;br&gt;In the following link you will find the instructions to install it:&lt;br&gt;&lt;br&gt;{repoURL}</source>
-        <translation type="unfinished"></translation>
+        <translation>A Deepines tároló nincs telepítve a rendszerére,&lt;br&gt;a Deepines Store működéséhez szüksége van erre a tárolóra.&lt;br&gt;A következő linken megtalálja a telepítéshez szükséges utasításokat:&lt;br&gt;&lt;br&gt;{repoURL}</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="380"/>
         <source>Start process</source>
-        <translation type="unfinished"></translation>
+        <translation>Folyamat indítása</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="418"/>
         <source>Installing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Telepítés...</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="419"/>
         <source>Installation failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>A telepítés sikertelen!</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="420"/>
         <source>Ready to install</source>
-        <translation type="unfinished"></translation>
+        <translation>Telepítésre kész</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="421"/>
         <source>Starting installation...</source>
-        <translation type="unfinished"></translation>
+        <translation>Telepítés indítása...</translation>
     </message>
 </context>
 </TS>
