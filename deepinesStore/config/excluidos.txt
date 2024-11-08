@@ -176,3 +176,4 @@ libfmt9
 libbotan-2-19
 libplank-common
 libplank1
+python3-pyqt5.qtwebengine
