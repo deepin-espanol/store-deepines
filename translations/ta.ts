@@ -6,7 +6,7 @@
     <message>
         <location filename="../deepinesStore/about.py" line="65"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>பற்றி</translation>
     </message>
     <message>
         <location filename="../deepinesStore/about.py" line="236"/>
@@ -71,12 +71,12 @@
     <message>
         <location filename="../deepinesStore/about.py" line="67"/>
         <source>Version {version}</source>
-        <translation type="unfinished"></translation>
+        <translation>பதிப்பு {version}</translation>
     </message>
     <message>
         <location filename="../deepinesStore/about.py" line="68"/>
         <source>The App Store of Deepin en Español</source>
-        <translation type="unfinished"></translation>
+        <translation>ச்பானிச் மொழியில் டீப்பினின் ஆப் கடை</translation>
     </message>
 </context>
 <context>
@@ -84,27 +84,27 @@
     <message>
         <location filename="../deepinesStore/store.py" line="1105"/>
         <source>Starting...</source>
-        <translation type="unfinished"></translation>
+        <translation>தொடங்குகிறது ...</translation>
     </message>
     <message>
         <location filename="../deepinesStore/store.py" line="1107"/>
         <source>Fetching files...</source>
-        <translation type="unfinished"></translation>
+        <translation>கோப்புகளைப் பெறுதல் ...</translation>
     </message>
     <message>
         <location filename="../deepinesStore/store.py" line="1108"/>
         <source>Initializing components...</source>
-        <translation type="unfinished"></translation>
+        <translation>கூறுகளைத் தொடங்குதல் ...</translation>
     </message>
     <message>
         <location filename="../deepinesStore/store.py" line="1109"/>
         <source>Finalizing setup...</source>
-        <translation type="unfinished"></translation>
+        <translation>அமைப்பை இறுதி செய்தல் ...</translation>
     </message>
     <message>
         <location filename="../deepinesStore/store.py" line="1103"/>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>ஏற்றுகிறது ...</translation>
     </message>
 </context>
 <context>
@@ -114,17 +114,19 @@
         <source>
 Installing {item}
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+{item} நிறுவுகிறது
+</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="167"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>மூடு</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="166"/>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>மீண்டும் முயற்சிக்கவும்</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="183"/>
@@ -134,19 +136,26 @@ The installation system is locked by
 another installation or upgrade process, 
 wait until it finishes and click Retry. 
 If you use Synaptic, make sure it is closed.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+நிறுவல் அமைப்பு பூட்டப்பட்டுள்ளது
+ மற்றொரு நிறுவல் அல்லது மேம்படுத்தல் செயல்முறை,
+ அது முடிவடையும் வரை காத்திருந்து மீண்டும் முயற்சிக்கவும்.
+ நீங்கள் சினாப்டிக் பயன்படுத்தினால், அது மூடப்பட்டிருப்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்.</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="165"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவவும்</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="169"/>
         <source>
 All processes have been completed.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+அனைத்து செயல்முறைகளும் முடிக்கப்பட்டுள்ளன.
+</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="133"/>
@@ -162,7 +171,7 @@ Aviso: no cierre la ventana, interrumpir la instalación puede dañar su sistema
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="160"/>
         <source>Installation process - Deepines Store</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவல் செயல்முறை - டீபைன்ச் கடை</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="187"/>
@@ -170,14 +179,19 @@ Aviso: no cierre la ventana, interrumpir la instalación puede dañar su sistema
 The database is being updated.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+தரவுத்தளம் புதுப்பிக்கப்படுகிறது.
+
+</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="172"/>
         <source>
 The installation of {item} is finished.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+{உருப்படி of இன் நிறுவல் முடிந்தது.
+</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="176"/>
@@ -187,19 +201,26 @@ The network connection has failed and the installation has not been completed.
 Check that your computer is connected to the Internet and click Retry.
 If the problem persists, send a report to t.me/deepinenespanol.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+பிணைய இணைப்பு தோல்வியடைந்துள்ளது மற்றும் நிறுவல் முடிக்கப்படவில்லை.
+ உங்கள் கணினி இணையத்துடன் இணைக்கப்பட்டுள்ளதா என்பதைச் சரிபார்த்து மீண்டும் முயற்சிக்கவும் என்பதைக் சொடுக்கு செய்யவும்.
+ சிக்கல் தொடர்ந்தால், ஒரு அறிக்கையை t.me/deepinenespanol க்கு அனுப்பவும்.
+</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="161"/>
         <source>{app_count} app has been selected for installation:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவலுக்கு {app_count} பயன்பாடு தேர்ந்தெடுக்கப்பட்டுள்ளது:
+</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="162"/>
         <source>{app_count} apps have been selected for installation:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவலுக்கு {app_count} பயன்பாடுகள் தேர்ந்தெடுக்கப்பட்டுள்ளன:
+</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="174"/>
@@ -208,7 +229,11 @@ If the problem persists, send a report to t.me/deepinenespanol.
 An error has occurred, please try again.
 If the problem persists, contact the administrator.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+பிழை ஏற்பட்டது, தயவுசெய்து மீண்டும் முயற்சிக்கவும்.
+ சிக்கல் தொடர்ந்தால், நிர்வாகியை தொடர்பு கொள்ளவும்.
+</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="179"/>
@@ -219,17 +244,23 @@ they depend on other packages that cannot be installed.
 
 You can look for help in our forum at deepinenespanol.org/comunidad
 or in our Telegram group t.me/deepinenespanol.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+ஒன்று அல்லது அதற்கு மேற்பட்ட பயன்பாடுகளை நிறுவ முடியவில்லை
+ அவை நிறுவ முடியாத பிற தொகுப்புகளை சார்ந்துள்ளது.
+
+ Deatinenespanol.org/comunidad இல் எங்கள் மன்றத்தில் நீங்கள் உதவியைக் காணலாம்
+ அல்லது எங்கள் தந்தி குழுவில் t.me/deepinenespanol.</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="163"/>
         <source>App to uninstall: {item}</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவல் நீக்க பயன்பாடு: {item}</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="164"/>
         <source>Uninstall</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவல் நீக்க</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="168"/>
@@ -237,21 +268,28 @@ or in our Telegram group t.me/deepinenespanol.</source>
 
 Warning: do not close the window, interrupting the process may damage your system.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+எச்சரிக்கை: சாளரத்தை மூட வேண்டாம், செயல்முறையை குறுக்கிடுவது உங்கள் கணினியை சேதப்படுத்தும்.
+</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="171"/>
         <source>
 Uninstalling {item}
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+{item} நிறுவல் நீக்குதல்
+</translation>
     </message>
     <message>
         <location filename="../deepinesStore/dialog_install.py" line="173"/>
         <source>
 The uninstallation of {item} is finished.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+{உருப்படி of இன் நிறுவல் நீக்குதல் முடிந்தது.
+</translation>
     </message>
 </context>
 <context>
@@ -259,7 +297,7 @@ The uninstallation of {item} is finished.
     <message>
         <location filename="../deepinesStore/cardg.py" line="76"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடு</translation>
     </message>
 </context>
 <context>
@@ -267,17 +305,17 @@ The uninstallation of {item} is finished.
     <message>
         <location filename="../deepinesStore/maing.py" line="383"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>வீடு</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="384"/>
         <source>Games</source>
-        <translation type="unfinished"></translation>
+        <translation>விளையாட்டுகள்</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="385"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>மற்றொன்று</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="479"/>
@@ -288,57 +326,58 @@ The uninstallation of {item} is finished.
         <location filename="../deepinesStore/maing.py" line="391"/>
         <source>About 
 Version: {version}</source>
-        <translation type="unfinished"></translation>
+        <translation>பற்றி
+ பதிப்பு: {version}</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="384"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>வளர்ச்சி</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="390"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>தேடல்</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="383"/>
         <source>Internet</source>
-        <translation type="unfinished"></translation>
+        <translation>இணையம்</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="385"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>மண்டலம்</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="384"/>
         <source>Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>கிராபிக்ச்</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="377"/>
         <source>About us</source>
-        <translation type="unfinished"></translation>
+        <translation>எங்களைப் பற்றி</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="383"/>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>பன்னூடகம்</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="383"/>
         <source>Deepines</source>
-        <translation type="unfinished"></translation>
+        <translation>டீப்ன்கள்</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="384"/>
         <source>Office automation</source>
-        <translation type="unfinished"></translation>
+        <translation>அலுவலக ஆட்டோமேசன்</translation>
     </message>
     <message>
         <location filename="../deepinesStore/store.py" line="1104"/>
         <source>Deepines Store</source>
-        <translation type="unfinished"></translation>
+        <translation>டீபைன்ச் கடை</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="447"/>
@@ -353,7 +392,7 @@ Version: {version}</source>
     <message>
         <location filename="../deepinesStore/maing.py" line="404"/>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவப்பட்டது</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="516"/>
@@ -363,107 +402,107 @@ Version: {version}</source>
     <message>
         <location filename="../deepinesStore/maing.py" line="403"/>
         <source>Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="401"/>
         <source>Select the apps to install</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவ பயன்பாடுகளைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="392"/>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>குறைக்கவும்</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="393"/>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>பெரிதாக்கு</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="394"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>மூடு</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="396"/>
         <source>Apps .deb</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாடுகள் .deb</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="414"/>
         <source>Deepines repository is not installed on your system,&lt;br&gt;Deepines Store needs this repository to work.&lt;br&gt;In the following link you will find the instructions to install it:&lt;br&gt;&lt;br&gt;{repoURL}</source>
-        <translation type="unfinished"></translation>
+        <translation>உங்கள் கணினியில் டீபைன்ச் களஞ்சியம் நிறுவப்படவில்லை, &lt;br&gt; டீப்ன்ச் கடை வேலை செய்ய இந்த களஞ்சியம் தேவை. &lt;br&gt; பின்வரும் இணைப்பில் அதை நிறுவுவதற்கான வழிமுறைகளைக் காண்பீர்கள்: &lt;br&gt; &lt;br&gt; {{repoURL}</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="379"/>
         <source>Review apps</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாடுகளை மதிப்பாய்வு செய்யவும்</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="385"/>
         <source>Installed apps</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவப்பட்ட பயன்பாடுகள்</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="397"/>
         <source>Apps Flatpak</source>
-        <translation type="unfinished"></translation>
+        <translation>பயன்பாடுகள் பிளாட்பாக்</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="402"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடு</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="405"/>
         <source>Uninstall</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவல் நீக்க</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="406"/>
         <source>Uninstalled</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவல் நீக்கப்பட்டது</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="407"/>
         <source>{app_count} app selected, click here to review it</source>
-        <translation type="unfinished"></translation>
+        <translation>தேர்ந்தெடுக்கப்பட்ட {app_count} பயன்பாடு, அதை மதிப்பாய்வு செய்ய இங்கே சொடுக்கு செய்க</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="408"/>
         <source>{app_count} apps selected, click here to review them</source>
-        <translation type="unfinished"></translation>
+        <translation>{app_count} பயன்பாடுகள் தேர்ந்தெடுக்கப்பட்டவை, அவற்றை மதிப்பாய்வு செய்ய இங்கே சொடுக்கு செய்க</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="409"/>
         <source>Unable to establish connection with the server, &lt;br&gt;please check your internet connection.&lt;br&gt;If the problem persists, please contact us via Telegram &lt;br&gt;at {atTlURL}.&lt;br&gt;&lt;br&gt;Visit Deepin en Español for more information: {siteURL}</source>
-        <translation type="unfinished"></translation>
+        <translation>சேவையகத்துடன் இணைப்பை நிறுவ முடியவில்லை, &lt;br&gt; தயவுசெய்து உங்கள் இணைய இணைப்பைச் சரிபார்க்கவும். &lt;br&gt; சிக்கல் தொடர்ந்தால், தயவுசெய்து எங்களை டெலிகிராம் வழியாக தொடர்பு கொள்ளவும் &lt;br&gt; {atTlURL}. &lt;br&gt; &lt;br&gt; மேலும் மேலும் தகவல்: {siteURL}</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="380"/>
         <source>Start process</source>
-        <translation type="unfinished"></translation>
+        <translation>தொடக்க செயல்முறை</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="418"/>
         <source>Installing...</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவுதல் ...</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="419"/>
         <source>Installation failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவல் தோல்வியடைந்தது!</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="420"/>
         <source>Ready to install</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவ தயாராக உள்ளது</translation>
     </message>
     <message>
         <location filename="../deepinesStore/maing.py" line="421"/>
         <source>Starting installation...</source>
-        <translation type="unfinished"></translation>
+        <translation>நிறுவலைத் தொடங்குகிறது ...</translation>
     </message>
 </context>
 </TS>
